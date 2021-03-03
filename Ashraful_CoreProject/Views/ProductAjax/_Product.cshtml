@@ -1,0 +1,49 @@
+﻿@model Ashraful_CoreProject.Models.ProductAjax
+
+<td>
+    <img src="@Model.ImageUrl" style="width:70px;height:70px;" />
+    @*<img src="~/images/@Model.ImageUrl" width="80" height="80" />*@
+
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.Code)
+</td>
+
+<td>
+    @Html.DisplayFor(modelItem => Model.Name)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.Description)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.Category)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.EntryDate)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.Price)
+</td>
+
+<td>
+    <div class="btn-group">
+        @*<a asp-action="Edit" asp-route-id="@Model.Code" class="btn btn-warning">Edit</a>*@
+
+
+        <form asp-action="EditProduct" asp-route-id="@Model.Code" data-ajax="true" data-ajax-update="#DivDetailView" data-ajax-success="ShowDetailForm()">
+            <button type="submit" class="btn btn-sm btn-warning ml-1">Edit</button>
+        </form>
+
+
+        <form asp-action="ViewProduct" asp-route-id="@Model.Code" data-ajax="true" data-ajax-update="#DivDetailView" data-ajax-success="ShowDetailForm()">
+            <button type="submit" class="btn btn-sm btn-primary ml-1">Details</button>
+        </form>
+
+
+        <form asp-action="DeleteProduct" asp-route-id="@Model.Code" data-ajax="true" data-ajax-success="deleteItem(this)">
+            <button type="submit" class="btn btn-danger btn-sm ml-1" onclick="return confirm('Delete Confirmation For product @Model.Code');">Delete</button>
+        </form>
+
+    </div>
+</td>
+

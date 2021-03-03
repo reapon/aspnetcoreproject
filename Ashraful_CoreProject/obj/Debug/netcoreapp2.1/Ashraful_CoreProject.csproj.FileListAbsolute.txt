@@ -1,0 +1,133 @@
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.deps.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.dll
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.pdb
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.dll
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.pdb
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.TagHelpers.input.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.TagHelpers.output.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorCoreGenerate.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.pdb
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.dll
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.pdb
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Index.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Create.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Success.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\IndexAjax.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Product.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Edit.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_detail.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Create.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Edit.cshtml.g.cs
+C:\Users\DELL\OneDrive\Desktop\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.csprojAssemblyReference.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.deps.json
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.runtimeconfig.json
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.runtimeconfig.dev.json
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.dll
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.pdb
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.dll
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\bin\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.pdb
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.csprojAssemblyReference.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.AssemblyInfoInputs.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.AssemblyInfo.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.csproj.CoreCompileInputs.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorAssemblyInfo.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorAssemblyInfo.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.TagHelpers.input.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.TagHelpers.output.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorCoreGenerate.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Details.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Edit.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Details.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Edit.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\IndexAjax.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Create.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_detail.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Edit.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductAjax\_Product.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Details.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Create.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Index.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Success.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorTargetAssemblyInfo.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.RazorTargetAssemblyInfo.cs
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.Views.pdb
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.dll
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.pdb
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.genruntimeconfig.cache
+G:\C# .Net Course\AspNetCore\Ashraful_CoreProject\Ashraful_CoreProject\obj\Debug\netcoreapp2.1\Ashraful_CoreProject.csproj.CopyComplete

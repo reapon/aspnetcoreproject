@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Ashraful_CoreProject.Models.Registration>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+    <br />
+<p>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#registerModal">Click Here To Register</button>
+</p>
+
+
+
+<div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            @{
+                Html.RenderPartial("Create", new Ashraful_CoreProject.Models.Registration());
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function () {
+                $('#registerModal').on('shown.bs.modal', function () {
+                $('#FullName').trigger('focus');
+            });
+        })
+    </script>
+
+}
